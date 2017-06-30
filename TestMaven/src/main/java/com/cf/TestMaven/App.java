@@ -16,5 +16,6 @@ public class App
         System.out.println(date);
         SimpleDateFormat df=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         System.out.println(df.format(date));
+        System.out.println("update git");
     }
 }
