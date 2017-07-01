@@ -21,5 +21,6 @@ public class App
         System.out.println("update git");
         String name=Utils.scanner.nextLine();
         System.out.println(Utils.islength(name));
+        System.out.println("cuilu dashuai bi");
     }
 }
